@@ -321,7 +321,7 @@ Google captchas use cookies to track users and rank their IPs.
 ## Chat
 
 - SecureComm - Free, open-source, self-hosting Capability, Zero Data retaining, 100% Privacy
-- ##Con - Only allows Chat (Text) and Voice Chats
+- Con - Only allows Chat (Text) and Voice messages
 Access here: [SecureComm](https://securecomm.pangerlkr.link)
 - Repository - [Github](https://github.com/pangerlkr/SecureComm)
 
